@@ -1,6 +1,0 @@
-if SHIELD_TUBETEST
-
-config ZMK_KEYBOARD_NAME
-    default "TubeTest"
-
-endif
