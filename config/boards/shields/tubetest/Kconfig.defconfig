@@ -4,3 +4,6 @@ config ZMK_KEYBOARD_NAME
     default "TubeTest"
 
 endif
+
+config ZMK_BLE
+    default y
